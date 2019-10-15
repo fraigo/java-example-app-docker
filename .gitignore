@@ -1,0 +1,8 @@
+.env
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+repository/
+docs/

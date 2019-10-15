@@ -1,0 +1,5 @@
+{
+  "name": "Java Application example",
+  "description": "A basic Java app you can run locally, using Docker, or deploying to Heroku.",
+  "addons": [ "heroku-postgresql" ]
+}

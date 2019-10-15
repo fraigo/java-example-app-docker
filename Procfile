@@ -1,0 +1,1 @@
+web: java -jar target/java-example-app-1.0.jar
