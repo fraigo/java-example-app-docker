@@ -1,5 +1,4 @@
-# docker-java-example
-
+# java-example-app-docker
 A basic Java app you can run locally, using Docker, or deploying to Heroku
 
 
@@ -44,8 +43,8 @@ docker-compose exec  maven mvn package  && docker-compose stop maven && docker-c
 You need Java JDK and Maven installed. Run the following commands to get the source code, compile and package your application
 
 ```sh
-$ git clone https://github.com/heroku/java-example-app.git
-$ cd java-example-app
+$ git clone https://github.com/fraigo/java-example-app-docker.git
+$ cd java-example-app-docker
 $ mvn install
 ```
 
